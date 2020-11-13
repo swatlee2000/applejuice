@@ -1,0 +1,4 @@
+Use the URL to the `RAW` version of your PlantUML files, prefix it with `src=`, and use the `cache=no` option so that GitHub always renders the currently committed 
+version.
+
+For example, here is a dynamically rendered view of the [example.plantuml]
