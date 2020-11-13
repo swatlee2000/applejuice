@@ -1,0 +1,1 @@
+mically rendered PlantUML images into our github documentation.  Simply use the PlantUML proxy `http://www.plantuml.com/plantuml/proxy` to render your `*.iuml` or `*.plantuml` files and embed them like images:
